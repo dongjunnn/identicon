@@ -1,0 +1,4 @@
+/mnt/c/Users/dj8ch/Documents/github/identicon/build/CMakeFiles/shell.dir
+/mnt/c/Users/dj8ch/Documents/github/identicon/build/CMakeFiles/docker.dir
+/mnt/c/Users/dj8ch/Documents/github/identicon/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/dj8ch/Documents/github/identicon/build/CMakeFiles/rebuild_cache.dir
